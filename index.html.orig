@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 <<<<<<< HEAD
-		
+		<title>Primer pagina web GIT se corrige error uno</title>
 	</head>
 	<body>
 		<h3>develop prueba</h3>
@@ -11,7 +11,7 @@
 		<title>Primer pagina web GIT generando conflicto en git jajaja</title>
 	</head>
 	<body>
-		
+		<h1>Pagina Login</h1>
 >>>>>>> login
 	</body>
 </html>
